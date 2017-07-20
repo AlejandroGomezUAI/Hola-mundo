@@ -1,1 +1,4 @@
-asd
+Public int main (string arg[])
+{
+  print("Hola mundo");
+}
